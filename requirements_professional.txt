@@ -1,0 +1,5 @@
+streamlit>=1.48,<2
+groq>=0.31,<1
+PyMuPDF>=1.26,<2
+scikit-learn>=1.6,<2
+numpy>=2.0,<3
