@@ -1,6 +1,0 @@
-streamlit==1.63.0
-groq==1.7.0
-sentence-transformers==6.0.1
-pypdf==5.9.0
-numpy>=1.26,<3
-torch>=2.2,<3
